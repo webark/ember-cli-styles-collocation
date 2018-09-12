@@ -5,9 +5,12 @@
   "keywords": [
     "ember-addon"
   ],
-  "repository": "",
+  "repository": "github:webark/ember-cli-styles-collocation",
   "license": "MIT",
-  "author": "",
+  "author": {
+    "name": "Mark David Avery",
+    "email": "mark@webark.cc"
+  },
   "directories": {
     "doc": "doc",
     "test": "tests"
